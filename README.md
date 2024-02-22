@@ -5,7 +5,7 @@ The Sales Data Analysis and Forecasting Project aims to analyze historical sales
 ## Project Steps
 
 1. **Data Acquisition and Cleaning:**
-   - Obtain the sales data from the relevant sources (e.g., CSV files, databases).
+   - Obtain the sales data from the relevant sources (  CSV file, databases).
    - Perform data cleaning to handle missing values, remove duplicates, and correct errors.
    - Ensure consistency in formatting and units across different variables.
 
