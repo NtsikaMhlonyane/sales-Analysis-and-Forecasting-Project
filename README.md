@@ -55,4 +55,4 @@ The Sales Data Analysis and Forecasting Project aims to analyze historical sales
 - Feedback and Iteration: Ongoing
 
 ## Conclusion
-The Sales Data Analysis and Forecasting Project will provide valuable insights into sales trends, customer behavior, and revenue metrics, enabling stakeholders to make informed decisions and optimize business strategies for improved performance and growth.
+The Sales Data Analysis and Forecasting Project  provide valuable insights into sales trends, customer behavior, and revenue metrics, enabling stakeholders to make informed decisions and optimize business strategies for improved performance and growth.
